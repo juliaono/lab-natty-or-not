@@ -6,7 +6,7 @@ A imagem criada é uma representação tecnológica em espirito de natal, de com
 ## 🤖 Tecnologias Utilizadas
 • IA Generativa Microsoft Copilot para roteirização;
 
-• IA Generativa Flat Ai para geração de imagem.
+• IA Generativa [Flat Ai](https://flatai.org/) para geração de imagem.
 
 ## 🧐 Processo de Criação
 Usei o Microsoft Capilot para ideias de tema, e recomendação de ferramenta para a geração de imagem. Depois de analizar as opções o Flat Ai foi escolhido e usado para gerar a imagem do nosso Papai Noel Tec.
