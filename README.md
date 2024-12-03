@@ -1,4 +1,4 @@
-# IA e a Magia do Natal: Papai Noel Monta um Robô de Brinquedo 🎅🤖✨
+# IA e a Magia do Natal: Papai Noel Monta um Robô de Brinquedo 🎅🤖
 
 ## 📒 Descrição
 A imagem criada é uma representação tecnológica em espirito de natal, de como a IA pode transformar até mesmo as figuras mais tradicionais.
