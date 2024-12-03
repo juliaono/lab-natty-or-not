@@ -4,7 +4,7 @@
 A imagem criada é uma representação tecnológica em espirito de natal, de como a IA pode transformar até mesmo as figuras mais tradicionais.
 
 ## 🤖 Tecnologias Utilizadas
-• IA Generativa Microsoft Copilot para roteirização;
+• IA Generativa [Microsoft Copilot](https://copilot.microsoft.com/chats/EgLDvVfx8HRTKegyentF8) para roteirização;
 
 • IA Generativa [Flat Ai](https://flatai.org/) para geração de imagem.
 
